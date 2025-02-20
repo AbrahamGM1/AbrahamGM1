@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi! I am Abraham, just a Software engineer
+### I really like to develop front-end applications but I also have knowledge not only for backend but for every single phase in the software development lifecycle
+### -- To the requirements until the deployment (not in a big scale for now), but I have the foundations to continue learning! --
+### For now, you can expect to see in my profile projects with Angular and some other projects with Java, im currently practicing very often on my own in order to stay fresh with those technologies
 
 <!--
 **AbrahamGM1/AbrahamGM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
